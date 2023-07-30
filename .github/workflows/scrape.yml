@@ -1,4 +1,4 @@
-scname: Scraping flights from Kayak
+name: Scraping flights from Kayak
 
 # Controls when the action will run.
 on:
